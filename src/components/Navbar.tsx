@@ -9,7 +9,7 @@ const Navbar = () => {
             <div className="flex items-center">
 
                 <span className=" flex items-center text-white text-5xl font-bold hover:text-yellow-400">
-                    <Link to="/"><MdOutlineFoodBank /></Link>
+                    <Link to="/receitas-web-app"><MdOutlineFoodBank /></Link>
                 </span>
                 <span className=" flex items-center text-white text-2xl font-sans font-bold hover:text-yellow-400">
                     <Link to="/receitas-web-app">HappyMeal</Link>
