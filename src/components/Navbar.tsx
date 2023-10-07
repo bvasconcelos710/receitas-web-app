@@ -17,10 +17,10 @@ const Navbar = () => {
 
             </div>
             <div className="md:flex md:space-x-4 space-y-2 md:space-y-0 items-center ">
-                <a href="#" className="text-white text-xl font-semibold mr-2 hover:text-yellow-400" onClick={() => { navigate('/recipebyletter') }}>
+                <a href="#" className="text-white text-lg font-semibold mr-2 hover:text-yellow-400" onClick={() => { navigate('/recipebyletter') }}>
                     Receitas por Letra
                 </a>
-                <a href="#" className="text-white text-xl font-semibold mr-2 hover:text-yellow-400" onClick={() => { navigate('/recipebyingredient') }}>
+                <a href="#" className="text-white text-lg font-semibold mr-2 hover:text-yellow-400" onClick={() => { navigate('/recipebyingredient') }}>
                     Receitas por Ingrediente
                 </a>
 
