@@ -54,7 +54,7 @@ const MealsByIngredient = () => {
                 />
                 <button
                     onClick={handleSearch}
-                    className="ml-2 px-4 py-2 bg-red-600 text-white rounded-full"
+                    className="ml-2 px-4 py-2 bg-red-600 text-white rounded-full hover:bg-red-900"
                 >
                     Pesquisar
                 </button>
