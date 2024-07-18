@@ -9,10 +9,10 @@ const Navbar = () => {
             <div className="flex items-center">
 
                 <span className=" flex items-center text-white text-5xl font-bold hover:text-yellow-400">
-                    <Link to="/receitas-web-app"><MdOutlineFoodBank /></Link>
+                    <Link to="/receitas-web-app-react"><MdOutlineFoodBank /></Link>
                 </span>
                 <span className=" flex items-center text-white text-2xl font-sans font-bold hover:text-yellow-400">
-                    <Link to="/receitas-web-app">HappyMeal</Link>
+                    <Link to="/receitas-web-app-react">HappyMeal</Link>
                 </span>
 
             </div>
